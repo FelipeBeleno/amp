@@ -8,10 +8,10 @@ Este es un proyecto en React creado utilizando `npx create-react-app`. A continu
 
 ## Clonación del Proyecto
 
-1. **Clona el repositorio** (reemplaza `URL_DEL_REPOSITORIO` con la URL real del repositorio):
+1. **Clona el repositorio** (reemplaza `https://github.com/FelipeBeleno/amp.git` con la URL real del repositorio):
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/FelipeBeleno/amp.git
    ```
 
 2. **Navega al directorio del proyecto**:
@@ -77,9 +77,10 @@ Este es un proyecto en React creado utilizando `npx create-react-app`. A continu
 
 ## Contacto
 
-Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con el equipo de desarrollo a través de [correo electrónico](mailto:correo@ejemplo.com).
+Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con el equipo de desarrollo a través de [correo electrónico](mailto:felipebelenoo1101@gmail.com).
 
 ---
 
 ¡Gracias por usar nuestro proyecto React!
+
 # amp
